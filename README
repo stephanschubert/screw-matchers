@@ -1,0 +1,17 @@
+== screw-matchers
+
+A collection of additional matchers for the Javascript BDD framework Screw.Unit.
+
+= 1. How to use
+
+Just include the files you need after Screw.Unit's setup and use them the same
+way as the builtin ones.
+
+= 2. Features
+
+* be_an_instance_of, be_a_instance_of
+
+
+More to come.
+
+Copyright (c) 2009 Stephan Schubert, released under the MIT license
