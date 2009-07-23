@@ -1,5 +1,7 @@
-Screw.Matchers["be_an_instance_of"] = 
 Screw.Matchers["be_a_instance_of"] =
+Screw.Matchers["be_an_instance_of"] = 
+Screw.Matchers["be_a_instanceof"] =
+Screw.Matchers["be_an_instanceof"] = 
 {
   match: function(expected, actual) {
     return (actual instanceof expected);
