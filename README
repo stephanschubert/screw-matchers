@@ -9,11 +9,15 @@ way as the builtin ones.
 
 = 2. Features
 
-* be_an_instance_of (w/ aliases)
-* be_a_type_of (w/ aliases
-* be_a_function (w/ aliases)
-* be_an_object (w/ aliases)
+All of them come with aliases for convenience.
 
+* be_an_instance_of
+* be_a_type_of
+* be_a_function
+* be_an_object
+* be_a_boolean
+* be_a_number
+* be_a_string
 
 More to come.
 
